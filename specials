@@ -1,0 +1,6 @@
+#id		name			description
+1		Army Of Cute	Add +1 to all angelos in play
+2		Pestilence		Remove 1 from all angelos
+3		Spear			if side 2 is next to an angelo add its attack to side 1
+4		Audit			Only angles tell the truth, everyone loses an attack point
+5		Chaos Theory	Swap all of the side types on the board
